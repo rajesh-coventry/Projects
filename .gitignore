@@ -27,6 +27,10 @@ __pycache__/
 # C extensions
 *.so
 
+# MCPs and AI-Agent related files: 
+.continue
+
+
 # Distribution / packaging
 .Python
 build/
