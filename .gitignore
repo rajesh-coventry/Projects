@@ -29,7 +29,7 @@ __pycache__/
 
 # MCPs and AI-Agent related files: 
 .continue
-
+.continue\mcpServer
 
 # Distribution / packaging
 .Python
