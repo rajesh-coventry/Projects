@@ -2,6 +2,7 @@
 desktop.ini
 .vscode
 __pycache__
+.idea
 
 # Project structure and project statement files: 
 01_ProblemStatement.md
