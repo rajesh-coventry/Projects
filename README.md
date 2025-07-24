@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF0000&color2=0000FF&color3=800080&center=true&vCenter=true&width=500&height=100&lines=🌟+PROJECTS+🌟;Journey+Through+Data!" alt="Typing SVG">
-</p>
-
 ## 🧩 **Introduction:**
 
 This is my **comprehensive portfolio** covering the journey from **basic data analysis** to **advanced deep learning**.  
